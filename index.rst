@@ -1,5 +1,5 @@
 ##################
-How to Print and Scan From Anywhere with Epson Connect?
+Steps to Print and Scan From Anywhere with Epson Connect
 ##################
 
 .. meta::
